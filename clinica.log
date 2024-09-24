@@ -1,0 +1,12 @@
+[2024-09-23 22:35:07] [ INFO ] [ClinicaOdontologica:72] Los valores insertados en la tabla son los siguientes:  En la fila 1 ID: 1 Matricula: 3442 Nombre: Ilsen Apellido: Sanchez
+[2024-09-23 22:35:07] [ INFO ] [ClinicaOdontologica:72] Los valores insertados en la tabla son los siguientes:  En la fila 2 ID: 2 Matricula: 4355 Nombre: Llud Apellido: Sanchez
+[2024-09-23 22:35:07] [ WARN ] [ClinicaOdontologica:91] SE ACTUALIZO EN EL REGISTRO CORRESPONDIENTE AL ID: 1
+[2024-09-23 22:35:07] [ WARN ] [ClinicaOdontologica:103] AVISO: se elimino el registro con id 2
+[2024-09-23 22:35:07] [ INFO ] [ClinicaOdontologica:128] Los datos actualizados:  ID: 1 Matricula: 3442 Nombre: Genrry Apellido: Sanchez
+[2024-09-23 22:35:07] [ INFO ] [ClinicaOdontologica:150] La consulta final luego de borrar el registro con el ID 1 es:  ID: 1 Matricula: 3442 Nombre: Genrry Apellido: Sanchez
+[2024-09-23 22:37:42] [ INFO ] [ClinicaOdontologica:72] Los valores insertados en la tabla son los siguientes:  En la fila 1 ID: 1 Matricula: 3442 Nombre: Ilsen Apellido: Sanchez
+[2024-09-23 22:37:42] [ INFO ] [ClinicaOdontologica:72] Los valores insertados en la tabla son los siguientes:  En la fila 2 ID: 2 Matricula: 4355 Nombre: Llud Apellido: Sanchez
+[2024-09-23 22:37:42] [ WARN ] [ClinicaOdontologica:91] SE ACTUALIZO EN EL REGISTRO CORRESPONDIENTE AL ID: 1
+[2024-09-23 22:37:42] [ WARN ] [ClinicaOdontologica:103] AVISO: se elimino el registro con id 2
+[2024-09-23 22:37:42] [ INFO ] [ClinicaOdontologica:130] Los datos actualizados:  ID: 1 Matricula: 3442 Nombre: Genrry Apellido: Sanchez
+[2024-09-23 22:37:42] [ INFO ] [ClinicaOdontologica:152] La consulta final luego de borrar el registro con el ID 1 es:  ID: 1 Matricula: 3442 Nombre: Genrry Apellido: Sanchez
